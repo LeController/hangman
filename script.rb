@@ -92,7 +92,6 @@ class Hangman
     game_hash = eval(hash_str)
     File.delete(path)
     @num_guesses, @guessed_letters, @player_progress, @chosen_word, @chosen_word_array = game_hash['@num_guesses'], game_hash['@guessed_letters'], game_hash['@player_progress'], game_hash['@chosen_word'], game_hash['@chosen_word_array']
-    puts @chosen_word_array
     puts "Game from #{path} has been loaded."
     puts ''
     self.play_game
