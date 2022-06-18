@@ -1,0 +1,1 @@
+{"@num_guesses"=>3, "@guessed_letters"=>["a", "e", "s", "t", "u", "o", "v", "p", "r"], "@player_progress"=>["p", "r", "e", "v", "e", "_", "t", "_", "_", "_"], "@chosen_word"=>"preventing", "@chosen_word_array"=>["p", "r", "e", "v", "e", "n", "t", "i", "n", "g"]}

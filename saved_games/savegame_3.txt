@@ -1,0 +1,1 @@
+{"@num_guesses"=>1, "@guessed_letters"=>["d", "e", "a", "s", "t", "r", "w", "l"], "@player_progress"=>["_", "a", "r", "_", "a", "r", "a"], "@chosen_word"=>"barbara", "@chosen_word_array"=>["b", "a", "r", "b", "a", "r", "a"]}
